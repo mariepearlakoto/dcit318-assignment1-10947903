@@ -1,4 +1,4 @@
 ﻿<Properties StartupConfiguration="{17817406-B093-4CD6-B19B-09A380E94159}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.GradeCalculator FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GradeCalculator PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
