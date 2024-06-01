@@ -1,0 +1,15 @@
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.deps.json
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.runtimeconfig.json
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.dll
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/bin/Debug/net7.0/TriangleTypeIdentifier.pdb
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.csproj.AssemblyReference.cache
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.AssemblyInfoInputs.cache
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.AssemblyInfo.cs
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.dll
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/refint/TriangleTypeIdentifier.dll
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.pdb
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/TriangleTypeIdentifier.genruntimeconfig.cache
+/Users/guest1/Desktop/dcit318-assignment1-10947903/TriangleTypeIdentifier/TriangleTypeIdentifier/obj/Debug/net7.0/ref/TriangleTypeIdentifier.dll
